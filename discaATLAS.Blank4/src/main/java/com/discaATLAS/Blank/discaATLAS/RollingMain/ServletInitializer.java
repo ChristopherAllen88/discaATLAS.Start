@@ -1,4 +1,4 @@
-package com.discaATLAS.Blank.discaATLAS.Rolling;
+package com.discaATLAS.Blank.discaATLAS.RollingMain;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
